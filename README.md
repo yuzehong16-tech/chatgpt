@@ -12,6 +12,8 @@
 
 本文按照整个使用流程，介绍目前国内用户比较常见的解决方案。
 
+<mark><strong>如果你是国内用户，需要了解 chatgpt plus/Pro Codex相关代充值订阅会员支持，可以查看：https://codexpro.vip/</strong></mark>
+
 ---
 
 # 第一步：准备能够正常访问 ChatGPT 的网络环境
@@ -248,3 +250,5 @@
 6. 使用 ChatGPT 内置的 Codex 完成编程、写作、办公等工作。
 
 随着 ChatGPT 和 Codex 的持续发展，越来越多开发者和普通用户开始将其作为日常学习、办公和开发的重要工具。选择稳定的网络环境、合适的订阅方案以及适合自己的客户端，可以获得更加流畅的使用体验。
+
+<mark><strong>如果你是国内用户，需要了解 chatgpt plus/Pro Codex相关代充值订阅会员支持，可以查看：https://codexpro.vip/</strong></mark>
